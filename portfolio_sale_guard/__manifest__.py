@@ -1,0 +1,1 @@
+{"name":"Portfolio Sale & Stock Guard","version":"18.0.1.0.0","category":"Sales","summary":"Validate stock before controlled sale completion","license":"LGPL-3","depends":["sale_stock","account"],"data":["views/sale_order_views.xml"],"installable":true}
